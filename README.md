@@ -47,7 +47,7 @@ Site de portfólio pessoal desenvolvido como projeto acadêmico, apresentando in
 ### 1. **index.html** - Página Inicial
 - **Hero Section**: Apresentação com gradient de fundo
 - **Contador de Visitas**: JavaScript que persiste visitas entre sessões
-- **Navegação**: Menu com links para as 3 páginas
+- **Navegação**: Menu com links para as 2 páginas
 
 **URL**: `https://seuusuario.github.io/portfolio-site/`
 
@@ -87,16 +87,6 @@ Lista de **8 recursos gratuitos** cobrindo as linguagens e áreas de atuao:
 Reflexão sobre o contato com computadores desde cedo e motivação para criar soluções inovadoras.
 
 **URL**: `https://seuusuario.github.io/portfolio-site/sobre.html`
-
-### 3. **projetos.html** - Projetos
-Galeria com 3 cards de projetos:
-- **Calculadora Numérica**: Python com métodos numéricos
-- **Visualizador de Formas**: Formas orgânicas (piscinas)
-- **Protótipo de Jogo**: Experimentos iniciais em gamedev
-
-**URL**: `https://seuusuario.github.io/portfolio-site/projetos.html`
-
----
 
 ## 🎫 Design e Layout
 
