@@ -63,11 +63,13 @@ Detalha meus 3 áreas de foco:
 - **Banco de Dados**: Otimização e gerenciamento de dados
 - **Criação de Jogos**: Exploração de lógica de programação e criatividade
 
-#### 🎓 Projeto 1
-Descreve a disciplina acadêmica:
+#### 🎓 Artefato Projeto 1
+Descreve a disciplina acadêmica e o Artefato do meu grupo:
 - Grupos de ~8 integrantes
 - Simulação de desafio real do mercado de trabalho
 - Desenvolvimento de **hard skills** (técnicas) e **soft skills** (comunicação, organização, trabalho em equipe)
+
+- Artefato: Nós estamos trabalhando num jogo de perguntas e respostas para conscientização sobre relacionado ao tema mobilidade sustentável, o jogo vai ser composto de um volante feito de MDF e com comandos feitos no arduino para responder as perguntas, o player vai utilizar deste volante para responder as perguntas movendo ele para a direita e aa esquerda, nesse volante terão hastes atrás dele que irão pressionar botões para responder as perguntas que serão disponibilizadas, além de um botão no meio do volante onde seria uma buzina que também serve para responder a pergunta. A medida que o player for acertando ele vai avançando, um carrinho numa esteira também funcionando via arduino vai se mover para frente a cada pergunta acertada e a cada pergunta errada o player ira regredir.
 
 #### 📚 Links de Estudo
 Lista de **8 recursos gratuitos** cobrindo as linguagens e áreas de atuao:
