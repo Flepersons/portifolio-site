@@ -19,5 +19,6 @@ Apresentar meus interesses profissionais, o contexto da disciplina Projeto 1, li
 - Lista de links gratuitos de estudo em JavaScript, Python, cibersegurança, banco de dados e desenvolvimento de jogos  
 - Texto sobre o que me inspira na área de tecnologia e programação
 
-## 📁 Estrutura do Projeto
+
+
 
